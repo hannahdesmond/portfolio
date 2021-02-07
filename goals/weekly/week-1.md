@@ -29,3 +29,13 @@ Evidence: Screen recording.
 ### Describe some basic OO principles like encapsulation and SRP
 
 Evidence: 
+
+## End of Unit Reflection
+
+
+
+#### Things I am proud of this unit
+I feel like I have already developed my pairing skills. I put some of my teaching skills into practice when trying to help my pair partner, such as asking open questions. 
+
+#### Areas I would like to develop
+

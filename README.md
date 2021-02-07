@@ -28,7 +28,7 @@ The overarching course goals and weekly goals are included below, and by clickin
 - I grow collaboratively
 
 ## Weekly Goals & Reflections
-
+[Week 1](goals/weekly/week-1.md)
 
 ## Projects
 

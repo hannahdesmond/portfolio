@@ -1,10 +1,25 @@
 # Week 1
 [Makers weekly outline](https://github.com/makersacademy/course/blob/master/week_outlines.md/)
 
-## Goals 
+## Goals for This Week
 
 ### 1. Test-drive a simple program using objects and methods ✅
-I attended a TDD workshop, completed some modules on the [Testing Ruby with RSpec course](https://www.udemy.com/course/testing-ruby-with-rspec/), and discussed TDD with my pair partners and peer group. 
+I attended a TDD workshop, completed some modules on the [Testing Ruby with RSpec course](https://www.udemy.com/course/testing-ruby-with-rspec/), and discussed TDD with my pair partners and peer group. I completed half of the Boris Bikes challenge and Airport challenge without using the walkthroughs. 
+
+I am pleased with my progress on beginning to test-drive programs using TDD, but I want to expand my understanding of TDD. In retrospect, I would have completed the Boris Bike walkthroughs before moving onto the weekend challenge, as some of the concepts explained in the walkthroughs would have aided me in consolidating my learning better in the airport challenge. I also aim to complete the Udemy course to have a good grounding in TDD. 
+
+### 2. Pair using the driver-navigator style ✅
+I spent four afternoons pair programming on the Boris Bikes challenge. I worked with my pair partners to establish our working pattern at the start of the session, including how regularly we would swap roles, when we would break, our focus for each session, and any other wants and needs including feedback. I provided feedback forms to my pair parnters and provided detailed feedback for them.
+
+Despite feeling considerable anxiety about pairing in the pre-course, I feel that this week's pairing was successful and built on my existing communication skills. I put my teaching skills into practice when trying to help my pair partner, such as asking open questions. I was also pleased with the feedback I received from my pair partners and aim to take into account their developmental feedback – that it's okay to take things slowly and spend time asking questions and understanding concepts. I also aim to get clearer 
+
+### 3. Follow an effective debugging process ✅
+I began to follow a [debugging process]() during the challenges for this week. However, I did spend too much time getting stuck and trying out ideas before following the debugging process properly. Once I started to do that, I found that I was more quickly able to get unstuck. 
+
+### Describe some basic OO principles like encapsulation and SRP ✅
+I researched these principles online and created the summaries below.
+
+### Evidence 
 
 #### TDD workshop and dice app
 [TDD Makers workshop](https://github.com/makersacademy/course/blob/master/week_outlines.md/)
@@ -21,15 +36,7 @@ I attended a TDD workshop, completed some modules on the [Testing Ruby with RSpe
 
 [Project](https://github.com/hannahdesmond/airport_challenge) 
 
-### 2. Pair using the driver-navigator style ✅
-
-[Boris Bikes Project Summary & Pairing Feedback](https://github.com/hannahdesmond/portfolio/blob/main/projects/boris-bikes.md)
-
-### 3. Follow an effective debugging process ✅
-
 [Screen recording of debugging process for Airport challenge](https://drive.google.com/file/d/13X33UkyLERy1nOr7IxzHROlbzm-wpuuj/view)
-
-### Describe some basic OO principles like encapsulation and SRP ✅
 
 ##### Single Responsibility Principle: 
 
@@ -39,9 +46,4 @@ Classes should have responsibility over a single part of a program's functionali
 
 The wrapping of data and functions into a single unit. Method and variables encased within a capsule – a class.
 
-## End of Unit Reflection
-
-**Pairing** Despite feeling considerable anxiety about pairing in the pre-course, I feel that this week's pairing was successful. like I have already developed my pairing skills. I put some of my teaching skills into practice when trying to help my pair partner, such as asking open questions. 
-
-#### Areas I would like to develop
 

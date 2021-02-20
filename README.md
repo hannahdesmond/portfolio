@@ -29,8 +29,16 @@ The overarching course goals and weekly goals are included below, and by clickin
 
 ## Weekly Goals & Reflections
 [Week 1](goals/weekly/week-1.md)
+[Week 2](goals/weekly/week-2.md)
+[Week 3]
 
 ## Projects
+[Boris Bikes](projects/boris-bikes.md)
+[Airport](/projects/airport-challenge.md)
+Oystercard
+Takeaway
+Battle
+Rock, Paper, Scissors
 
 ## Processes
 

@@ -4,6 +4,7 @@
 Create an Osytercard which can be topped up, stores journeys and adjusts balance. 
 
 [Full Brief](https://github.com/makersacademy/course/tree/master/oystercard) 
+
 [Project](https://github.com/hannahdesmond/oyster-card) 
 
 ## Goals
@@ -17,10 +18,12 @@ These are the Makers goals which I made progress towards in this challenge:
 ## Week 2 Goals
 
 Use all of week 1's skills (don't underestimate the importance of this) :white_check_mark:
+
 Break one class into two classes that work together, while maintaining test coverage :white_check_mark:
+
 Unit test classes in isolation using mocking :white_check_mark:
+
 Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) :white_check_mark:
-Review another person's code and give them meaningful feedback
 
 ## Feedback
 

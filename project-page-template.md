@@ -12,7 +12,7 @@ These are the Makers goals which I made progress towards in this challenge:
 
 ## Week X Goals
 
-
+## Processes I Learned/Improved
 
 ## Feedback
 

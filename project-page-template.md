@@ -1,4 +1,4 @@
-# TITLE 
+ # TITLE 
 ## Week XX Pairing/SoloXXX Challenge at Makers Academy
 
 ...summary of challenge

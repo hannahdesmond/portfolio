@@ -23,7 +23,8 @@ These are the week 2 goals I worked towards in this challenge:
 TDD
 Debugging
 
-
+### Feedback
+[Coach Feedback](https://github.com/makersacademy/takeaway-challenge/pull/1865)
 
 ---
 [Week 2 Summary & Reflections](goals/weekly/week-2.md)

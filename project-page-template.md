@@ -4,6 +4,7 @@
 ...summary of challenge
 
 [Full Brief]() **makers link**
+
 [Project]() **link to project repo**
 
 ## Goals

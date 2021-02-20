@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 [Makers weekly outline](https://github.com/makersacademy/course/blob/master/week_outlines.md/)
 
 ## Goals for This Week
@@ -15,7 +15,7 @@
 
 ### 3. Unit test classes in isolation using mocking
 - I attended a mocking workshop.
-- I used mocking in the Oystercard challenge to test a 
+- I used mocking in the Oystercard challenge.
 
 ### 4. Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 - I have discussed basic OO principles with a coach when getting some support with the Secret Diary practical. 
@@ -26,22 +26,22 @@
 ### Evidence 
 
 #### Oystercard
-[Project Summary & Pairing Feedback]() **Page about Oyster challenge needs to go here**
+[Project Summary & Pairing Feedback](projects/oystercard.md)
 
-[Project]() 
+[Project](https://github.com/hannahdesmond/oyster-card) 
 
 #### Takeaway
-[Project Summary]() **Page about Takeaway challenge needs to go here**
+[Project Summary](projects/takeaway-challenge.md) 
 
-[Project]() 
+[Project](https://github.com/hannahdesmond/takeaway-challenge) 
 
-#### Secret Diary **Update README for this**
+#### Secret Diary
 
-[Project]()
+[Project](https://github.com/hannahdesmond/secret-diary)
 
 #### Birthdays
 
-[Project & Coach Feedback]() **Update README for this and and add Eóin's feedback & alex debugging feedback - It looks like you had some success following the steps, and I think with practice you'll find that the steps flow almost automatically. I think you could spend more time on the rubber duck step, and that would naturally lead you to the assumptions you're making and want to test** 
+[Project & Coach Feedback](https://github.com/hannahdesmond/birthdays-1) 
 
 [Screen recording of debugging process for birthdays practical](https://drive.google.com/file/d/13X33UkyLERy1nOr7IxzHROlbzm-wpuuj/view)
 

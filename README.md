@@ -36,10 +36,15 @@ The overarching course goals and weekly goals are included below, and by clickin
 
 ## Projects
 [Boris Bikes](projects/boris-bikes.md)
+
 [Airport](/projects/airport-challenge.md)
+
 Oystercard
+
 Takeaway
+
 Battle
+
 Rock, Paper, Scissors
 
 ## Processes

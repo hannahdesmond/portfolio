@@ -32,7 +32,7 @@ The overarching course goals and weekly goals are included below, and by clickin
 
 [Week 2](goals/weekly/week-2.md)
 
-[Week 3]
+[Week 3](goals/weekly/week-3.md)
 
 ## Projects
 [Boris Bikes](projects/boris-bikes.md)

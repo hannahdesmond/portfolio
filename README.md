@@ -70,13 +70,13 @@ The overarching course goals and weekly goals are included below, and by clickin
 
 ## Processes/Skills
 
-[Test-Drive Development]()
+[Test-Drive Development](processes/tdd.md)
 
-[Debugging]()
+[Debugging](processes/debugging.md)
 
-[Object-Oriented Design]()
+[Object-Oriented Design](processes/ood.md)
 
-[Pairing, Teamwork & Communication]()
+[Pairing, Teamwork & Communication](processes/communication.md)
 
 
 

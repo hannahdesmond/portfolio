@@ -34,20 +34,49 @@ The overarching course goals and weekly goals are included below, and by clickin
 
 [Week 3](goals/weekly/week-3.md)
 
+[Week 4](goals/weekly/week-4.md)
+
+[Week 5](goals/weekly/week-5.md)
+
+[Week 6](goals/weekly/week-6.md)
+
+[Week 7](goals/weekly/week-7.md)
+
+[Week 8](goals/weekly/week-8.md)
+
 ## Projects
+
+### Team Projects
+
+...
+
+...
+
+### Pair Challenges
+
 [Boris Bikes](projects/boris-bikes.md)
+
+[Oystercard](projects/oystercard.md)
+
+[Battle](projects/battle.md)
+
+### Solo Challenges
 
 [Airport](/projects/airport-challenge.md)
 
-Oystercard
+[Takeaway](projects/takeaway.md)
 
-Takeaway
+[Rock, Paper, Scissors](projects/rps.md)
 
-Battle
+## Processes/Skills
 
-Rock, Paper, Scissors
+[Test-Drive Development]()
 
-## Processes
+[Debugging]()
+
+[Object-Oriented Design]()
+
+[Pairing, Teamwork & Communication]()
 
 
 

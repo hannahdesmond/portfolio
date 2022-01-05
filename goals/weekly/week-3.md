@@ -5,8 +5,8 @@
 
 ### 1. Build a simple web app
 
-- Built a counting app in Sinatra. 
-- Worked towards a Battle web app game in pair programming. 
+- 
+-  
 
 ### 2. Follow an effective debugging process for web applications
 
@@ -14,7 +14,7 @@
 
 ### 3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) 
 
-- what i did 
+- 
 
 ### 4. Explain the MVC pattern 
 
@@ -42,8 +42,5 @@
 
 #### Code Review
 
-[Review of Fellow Learner's XXXXX Challenge]() **add pull request link here**
-
-#### Solo Process Workshop
-
-Coach feedback: 
+[Review of Fellow Learner's Challenge](https://github.com/makersacademy/takeaway-challenge/pull/2125) 
+I participated in a code review and felt that compared to when I have given code reviews before, I was able to give more useful feedback by running my partner's codes and tests locally and getting a better understanding of what their code did. I gave feedback on OOP principles (e.g. Single Responsibility Principle), the business logic of the code, and what their tests were testing.

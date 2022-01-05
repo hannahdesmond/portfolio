@@ -14,7 +14,7 @@
 
 ### 3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) 
 
-- 
+- Did servers-1 and clients-1 practicals to understand how clients and servers talk to each other. 
 
 ### 4. Explain the MVC pattern 
 
@@ -32,13 +32,14 @@
 
 [Project]() 
 
-#### PRACTICAL/WORKSHOP XXX
+#### PRACTICALS/WORKSHOPS 
 
-[Project]() 
+[Servers-1](https://github.com/hannahdesmond/practicals/tree/main/servers-1)
 
-#### Sinatra Count App
+[Clients-1](https://github.com/hannahdesmond/practicals/tree/main/clients-1) 
 
-[Project]() 
+
+
 
 #### Code Review
 

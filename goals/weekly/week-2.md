@@ -6,16 +6,17 @@
 ### 1. Use all of week 1's skills (test-drive a simple program, pair using drive-navigator style, follow an effective debugging process, describe some basic OO principles)
 
 - I continued to test-drive programs, including the pair Oystercard project and solo Takeaway challenge. 
-- I recorded my screen and asked for feedback on my debugging process for the Birthdays practical. 
+- - After attending a domain modelling workshop, I spent more time on domain modelling this week, and was better able to test-drive my programs.  I created an effective sequence diagram for my Takeaway challenge, which helped me to design my program more effectively.
+- I sought feedback on a screen recording regarding my debugging process for the Birthdays practical. 
 - I collected feedback from my pair partners throughout the week. I attended a workshop on feedback and was able to provide more detailed feedback to my pair partners.
-- After attending a domain modelling workshop, I spent more time on domain modelling this week, and was better able to test-drive my programs. 
 
 ### 2. Break one class into two classes that work together, while maintaining test coverage
-- I did the Secret Diary practical.
+- I did the encapsulation/Secret Diary practical, breaking my diary into several classes. I sought feedback on my work which can be found in the directory => [Encapsulation Practical](https://github.com/hannahdesmond/practicals/tree/main/encapsulation)
 
 ### 3. Unit test classes in isolation using mocking
 - I attended a mocking workshop.
 - I used mocking in the Oystercard challenge.
+- I used mocking in the Takeaway challenge. I sought feedback on the mocking I did in my Takeaway challenge which can found in the pull request. [Takeaway Challenge Pull Request](https://github.com/makersacademy/takeaway-challenge/pull/2124)
 
 ### 4. Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 - I have discussed basic OO principles with a coach when getting some support with the Secret Diary practical. 
@@ -35,16 +36,18 @@
 
 [Project](https://github.com/hannahdesmond/takeaway-challenge) 
 
-#### Secret Diary
+[Takeaway Challenge Pull Request with coach feedback](https://github.com/makersacademy/takeaway-challenge/pull/2124)
 
-[Project](https://github.com/hannahdesmond/secret-diary)
+#### Practicals
 
-#### Birthdays
+[Encapsulation](https://github.com/hannahdesmond/practicals/tree/main/encapsulation)
 
-[Project & Coach Feedback](https://github.com/hannahdesmond/birthdays-1) 
+[Secret Diary (Feb)](https://github.com/hannahdesmond/secret-diary)
 
-[Screen recording of debugging process for birthdays practical](https://drive.google.com/file/d/13X33UkyLERy1nOr7IxzHROlbzm-wpuuj/view)
+[Birthdays (Feb)](https://github.com/hannahdesmond/birthdays-1) 
+
+[Screen recording of debugging process for birthdays practical (Feb)](https://drive.google.com/file/d/13X33UkyLERy1nOr7IxzHROlbzm-wpuuj/view)
 
 #### Code Review
 
-[Review of Fellow Learner's Airport Challenge](https://github.com/makersacademy/airport_challenge/pull/2031)
+[Review of Fellow Learner's Airport Challenge (Feb)](https://github.com/makersacademy/airport_challenge/pull/2031)

@@ -10,11 +10,11 @@
 
 ### 2. Follow an effective debugging process for web applications
 
-- Attended a debugging workshop. 
+- Attended a debugging workshop and debugged a blog app. I used the stack trace to find several bugs in the code => [Debugging Blog App](https://github.com/hannahdesmond/skills-workshops/tree/master/how_the_web_works/debugging_blog_app)
 
 ### 3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) 
 
-- Did servers-1 and clients-1 practicals to understand how clients and servers talk to each other. 
+- Carried out servers-1 and clients-1 practicals to understand how clients and servers talk to each other. 
 
 ### 4. Explain the MVC pattern 
 

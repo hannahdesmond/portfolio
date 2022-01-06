@@ -38,8 +38,7 @@
 
 [Clients-1](https://github.com/hannahdesmond/practicals/tree/main/clients-1) 
 
-
-
+[Debugging Blog App](https://github.com/hannahdesmond/skills-workshops/tree/master/how_the_web_works/debugging_blog_app)
 
 #### Code Review
 

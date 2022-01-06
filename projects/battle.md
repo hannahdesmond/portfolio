@@ -11,7 +11,12 @@
 These are the Makers goals which I made progress towards in this challenge:
 
 
-## Week X Goals
+## Week 3 Goals
+
+- Build a simple web app  ✅  – cat picture using Sinatra. Will start Battle later in the week.
+- Follow an effective debugging process for web applications
+- Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) ✅  Used HTML in ERB views.
+- Explain the MVC pattern
 
 ## Processes I Learned/Improved
 

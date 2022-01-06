@@ -3,9 +3,9 @@
 
 Create an Osytercard which can be topped up, stores journeys and adjusts balance. 
 
-[Full Brief](https://github.com/makersacademy/course/tree/master/oystercard) 
+[Full Brief @ Makers' Repo](https://github.com/makersacademy/course/tree/master/oystercard) 
 
-[Project](https://github.com/hannahdesmond/oystercard) 
+[My Project Repo](https://github.com/hannahdesmond/oystercard) 
 
 ## Goals
 These are the Makers goals which I made progress towards in this challenge:

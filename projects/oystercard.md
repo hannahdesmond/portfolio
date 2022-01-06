@@ -57,7 +57,7 @@ Explain some basic OO principles and tie them to high level concerns (e.g. ease 
 
 I worked solo on this challenge as I had some personal issues this week and took some time out from pairing to look after my wellbeing. I had worked on Oystercard with the February cohort and collected some feedback from my pair partners at that time (below). Looking back on this feedback at the time of writing (part way through week 3) I am pleased with how I have been able to take more of a lead in pairing sessions and being more methodical with reading the stack trace and error messages. 
 
-### Ed George – Pair Parnter
+*Ed George – Pair Parnter*
 **How did you feel at the start of the session? How did you feel at the end of the session?**
 >Relaxed, satisfied + motivated
 
@@ -67,7 +67,7 @@ I worked solo on this challenge as I had some personal issues this week and took
 **What could I improve?**
 >Not sure, to be fair I mainly led our session. Will look out for something next time
 
-### Iain Aitken – Pair Parnter
+*Iain Aitken – Pair Parnter*
 **How did you feel at the start of the session? How did you feel at the end of the session?**
 >Tired at the start! Better at the end, more relaxed, I thought it was a good pairing session.
 
@@ -77,7 +77,7 @@ I worked solo on this challenge as I had some personal issues this week and took
 **What could I improve?**
 >I think probably reading error messages - be as methodical with those, following the trace through, as you are with writing code in the first place and that'll definitely be an improvement.
 
-### Sandy Pounoussamy – Pair Parntner
+*Sandy Pounoussamy – Pair Parntner*
 **How did you feel at the start of the session? How did you feel at the end of the session?**
 I feel good, ready to approach a new challenge. I was happy to have be able to test my understanding of Domain Modeling and RSpec.
 
@@ -89,7 +89,7 @@ I feel good, ready to approach a new challenge. I was happy to have be able to t
 >I think working on 'domain modeling' would help you get a clearer picture of what needs the user stories are describing and also just training with RSpec syntax (me as well)
 
 
-### Jack Gumoes – Pair Parnter
+*Jack Gumoes – Pair Parnter*
 **How did you feel at the start of the session? How did you feel at the end of the session?**
 >I felt good all the way through
 

@@ -3,43 +3,33 @@
 
 ## Goals for This Week
 
-### 1. 
+### 1. Build a simple web app with a database ✅
 
 
-### 2. 
+### 2. Follow an effective debugging process for database applications ✅
 
 
-### 3. 
-
-
-
-### 4.
-
+### 3. Explain the basics of how databases work (e.g. tables, SQL, basic relationships between tables) ✅
 
 
 ### Evidence 
 
-#### 
+#### Bookmark Manager 
+
 [Project Summary & Pairing Feedback]()
 
-[Project]() 
+[Project]() ## link to the multiple repos I worked on during the week (can I link to those in the final repo page?)
+[Project]()
 
-#### Rock, Paper, Scissors
-[Project Summary]()
 
-[Project]() 
-
-#### PRACTICAL/WORKSHOP XXX
+#### Chitter
 
 [Project]() 
 
-#### PRACTICAL/WORKSHOP XXX
-
-[Project]() 
 
 #### Code Review
 
-[Review of Fellow Learner's XXXXX Challenge]() **add pull request link here**
+[Review of Fellow Learner's Samir's Challenge](https://github.com/makersacademy/rps-challenge/pull/2034)
 
 #### Solo Process Workshop
 

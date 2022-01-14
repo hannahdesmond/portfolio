@@ -4,13 +4,13 @@
 ## Goals for This Week
 
 1. Build a simple web app with a database ✅
-
+This week's challenge has been to build a bookmark manager web app to manage bookmarked sites. I have continued to use Sinatra, Ruby, RSpec and Capybara to build my model, view and controller, and added in PostgreSQL to create databases. This week's challenge has been very in-depth so I opted to focus solely on this for the week. 
 
 2. Follow an effective debugging process for database applications ✅
-
+I have used an effective debugging process both solo and with my pair partners on this week's challenge. 
 
 3. Explain the basics of how databases work (e.g. tables, SQL, basic relationships between tables) ✅
-
+Working with my pair partners, we have discussed the structure of relational databases including tables, and used SQL to manipulate database data. I also watched a 90-minute Pluralsight course on PostgreSQL
 
 ### Evidence 
 

@@ -5,32 +5,29 @@
 
 ### 1. Build a simple web app
 
-- 
--  
+- During pair programming, my partners and I built a simple 'Battle' game app which ran in the browser. 
+- For the weekend challenge, I built a functioning broswer-based game of rock paper scissors. 
 
 ### 2. Follow an effective debugging process for web applications
 
-- Attended a debugging workshop and debugged a blog app. I used the stack trace to find several bugs in the code => [Debugging Blog App](https://github.com/hannahdesmond/skills-workshops/tree/master/how_the_web_works/debugging_blog_app)
+- I attended a debugging workshop and debugged a blog app. I used the stack trace to find several bugs in the code => [Debugging Blog App](https://github.com/hannahdesmond/skills-workshops/tree/master/how_the_web_works/debugging_blog_app)
 
 ### 3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) 
 
-- Carried out servers-1 and clients-1 practicals to understand how clients and servers talk to each other. 
+- I carried out servers-1 and clients-1 practicals to understand how clients and servers talk to each other. 
 
 ### 4. Explain the MVC pattern 
 
-- Researched MVC, shared resources with cohort. Explained the how the model, view and controller interact when pair programming on the Battle app. 
+- I researched MVC and shared resources with my pairs and my cohort. I explained the how the model, view and controller interact when pair programming on the Battle app. 
 
 ### Evidence 
 
 #### Battle
-[Project Summary & Pairing Feedback]()
-
-[Project]() 
+[Project Repo](https://github.com/hannahdesmond/Battle)
 
 #### Rock, Paper, Scissors
-[Project Summary]()
 
-[Project]() 
+[Project Repo](https://github.com/hannahdesmond/rps-challenge) 
 
 #### PRACTICALS/WORKSHOPS 
 

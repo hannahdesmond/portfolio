@@ -7,7 +7,6 @@
 
 - I continued to test-drive programs, including the pair Oystercard project and solo Takeaway challenge. 
 - - After attending a domain modelling workshop, I spent more time on domain modelling this week, and was better able to test-drive my programs.  I created an effective sequence diagram for my Takeaway challenge, which helped me to design my program more effectively.
-- I sought feedback on a screen recording regarding my debugging process for the Birthdays practical. 
 - I collected feedback from my pair partners throughout the week. I attended a workshop on feedback and was able to provide more detailed feedback to my pair partners.
 
 ### 2. Break one class into two classes that work together, while maintaining test coverage
@@ -41,6 +40,8 @@
 #### Practicals
 
 [Encapsulation](https://github.com/hannahdesmond/practicals/tree/main/encapsulation)
+
+I have also included some of the work I did in the February cohort here. 
 
 [Secret Diary (Feb)](https://github.com/hannahdesmond/secret-diary)
 

@@ -31,6 +31,11 @@ Working with my pair partners, we have discussed the structure of relational dat
 
 [Code Review for Pair Parntner](https://github.com/makersacademy/rps-challenge/pull/2034)
 
+
+#### Self Process Workshop
+
+[Code Kata recording](https://drive.google.com/file/d/1VKK5cblnYh4-3S7aNzHAeRrwHZ-9REsu/view?usp=sharing)
+
 #### Reflection
 
 This week is the first week that I hadn't previously done in the February cohort, and I was very pleased with how I progressed and understood material that I wasn't familiar with. I feel like all of my pairing sessions went well this week. My debugging process has become more methodical and I was very happy to have been able to help my Thursday pair to debug something that she had been stuck on for a while before our session. 

@@ -60,6 +60,8 @@ The overarching course goals and weekly goals are included below, and by clickin
 
 [Battle](projects/battle.md)
 
+[Bookmark Manager] *link to final repo which links out to other repos*
+
 ### Solo Challenges
 
 [Airport](/projects/airport-challenge.md)
@@ -70,7 +72,7 @@ The overarching course goals and weekly goals are included below, and by clickin
 
 ## Processes/Skills
 
-[Test-Drive Development](processes/tdd.md)
+[Test-Driven Development](processes/tdd.md)
 
 [Debugging](processes/debugging.md)
 
@@ -78,5 +80,4 @@ The overarching course goals and weekly goals are included below, and by clickin
 
 [Pairing, Teamwork & Communication](processes/communication.md)
 
-
-
+[Refactoring]()
